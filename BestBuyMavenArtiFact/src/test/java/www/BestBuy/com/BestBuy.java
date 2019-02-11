@@ -27,7 +27,7 @@ public class BestBuy {
         }
         static void Test() {
         	
-            System.setProperty("webdriver.gecko.driver","C:\Users\Abhirup Subba\Downloads\geckodriver-v0.23.0-win64\geckodriver.exe");
+            System.setProperty("webdriver.gecko.driver","C:\\Users\\Abhirup Subba\\Downloads\\geckodriver-v0.23.0-win64\\geckodriver.exe");
             WebDriver driver = new FirefoxDriver();
 
              // launch Fire fox and direct it to the Base URL
